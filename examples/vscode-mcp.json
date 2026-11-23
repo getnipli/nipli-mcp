@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "nipli": {
+      "type": "http",
+      "url": "https://api.nipli.pl/mcp"
+    }
+  }
+}
