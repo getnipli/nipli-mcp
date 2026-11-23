@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "pl.nipli/nipli",
+  "title": "Nipli — Polish company data",
+  "description": "Polish company data: registry (KRS), financial statements, ownership, contacts, events.",
+  "version": "0.1.1",
+  "websiteUrl": "https://nipli.pl/mcp",
+  "repository": {
+    "url": "https://github.com/getnipli/nipli-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.nipli.pl/mcp"
+    }
+  ]
+}
