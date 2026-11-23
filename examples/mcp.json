@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "nipli": {
+      "url": "https://api.nipli.pl/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_NIPLI_API_KEY"
+      }
+    }
+  }
+}
